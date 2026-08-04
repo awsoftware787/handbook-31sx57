@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://awsoftware787.github.io/handbook-31sx57/sitemap.xml
